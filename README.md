@@ -1,6 +1,6 @@
 # web-folder
 
-A pure Rust crate for folder selection and drag-drop in browser WASM applications.
+A pure Rust crate for folder selection and drag-drop in browser WASM applications. Developed to aid the Rust refactor of https://diranalyze.vercel.app/
 
 ## Problem
 
